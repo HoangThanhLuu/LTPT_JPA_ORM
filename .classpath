@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exer4Student/src/main/java"/>
+	<classpathentry kind="src" path="Exer4Student/src/test/java"/>
+	<classpathentry kind="src" path="Exer4StudentClient/src/main/java"/>
+	<classpathentry kind="lib" path="Exer4StudentClient/lib/lib.jar"/>
+	<classpathentry kind="output" path="Exer4Student/target/classes"/>
+</classpath>
